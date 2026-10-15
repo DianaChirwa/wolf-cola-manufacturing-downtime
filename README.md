@@ -2,7 +2,7 @@
 
 > An Excel-based analysis of production efficiency and manufacturing downtime.
 
-![Wolf Cola Manufacturing Downtime Dashboard](dashboard/Wolf Cola_Manufacturing_Line_Productivity.png)
+![Wolf Cola Manufacturing Downtime Dashboard](dashboard/WolfCola_Manufacturing_Line_Productivity.png)
 
 ## Overview
 
@@ -33,7 +33,7 @@ The analysis covers **38 production batches recorded from 29 August to 3 Septemb
 
 ## Dashboard
 
-![Wolf Cola Manufacturing Downtime Dashboard](dashboard/Wolf Cola_Manufacturing_Line_Productivity.png)
+![Wolf Cola Manufacturing Downtime Dashboard](dashboard/WolfCola_Manufacturing_Line_Productivity.png)
 
 ![Downtime Analysis](dashboard/Downtime_Drivers.png)
 
